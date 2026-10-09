@@ -1,0 +1,12 @@
+# SQLite database — each clone starts fresh and creates its own
+tasks.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
